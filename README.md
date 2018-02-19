@@ -1,2 +1,2 @@
-# domotique
-To do
+# Domotique
+This is a simple software to control your home.
