@@ -1,0 +1,2 @@
+Adresse Chambre R : 7CC356
+Rolling code : stocké dans EPPROM

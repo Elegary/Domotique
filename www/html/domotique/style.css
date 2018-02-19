@@ -1,0 +1,58 @@
+body {
+	font-family: Arial;
+	font-size: 1em;
+
+}
+h1 {
+	padding: 0px;
+}
+.lampe_block {
+	border: 3px solid black;
+	width: 200px;
+	padding: 0px 10px 10px 10px;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	
+}
+
+#page_content{
+	display: flex;
+	justify-content: center;
+	flex-direction: column; 
+}
+@media all and (orientation: portrait){
+	h1{
+		color: blue;
+	}
+	.lampe_block {
+	margin: auto;
+	width: auto;
+	border: 3px solid black;
+	max-width: 900px;
+	padding: 0px 10px 10px 10px;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	}
+}
+
+.lampes {
+width: 300px;
+border: 3px solid black;
+border-radius: 20px;
+padding: 10px;
+margin-bottom: 10px;
+}
+
+#telcommande:active {
+opacity: 0.5;
+}
+
+.volets {
+width: 153px;
+border: 3px solid black;
+border-radius: 20px;
+padding: 10px;
+margin-bottom: 10px;
+}
+
+

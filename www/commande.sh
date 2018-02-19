@@ -1,0 +1,1 @@
+echo "$1" > /home/pi/Documents/Domotique/fichier.txt
